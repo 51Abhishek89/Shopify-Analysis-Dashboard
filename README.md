@@ -81,4 +81,4 @@ Supported data-backed marketing decisions through audience segmentation
 
 ### 6.	Screenshots / Demos
 Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
-Example: ![Dashboard Preview](https://github.com/the-mansi-goel/Ski-dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png)
+Example: ![Dashboard Preview](https://github.com/51Abhishek89/Shopify-Analysis-Dashboard/blob/main/Shopify%20Dashboard%20SS%201.png)
